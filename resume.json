@@ -1,0 +1,51 @@
+let myResume={
+    "basicDetails": {
+      "name": "BHARATH KUMAR B",
+      "email": "barathk496@gamil.com",
+      "phone": 9080825669,
+      "degree": "B.COM IT",
+      "location": {
+        "address": "41/42 Sai Krishna Illam, Marapettai, Pollachi",
+        "postalCode": 600030,
+        "city": "Pollachi",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+    "work": [
+      {
+        "company": "INFOSYS BPM LTD",
+        "position": "Process Executive",
+        "startDate": "2021-10-04",
+        "endDate": "2022-12-04",
+        "summary": "Hello I am the Process executive handling various task and gaining lots of experience",
+      },
+    ],
+    "education": [
+      {
+        "College": "Sri Krishna Arts and Science College",
+        "department": "Information Technology",
+        "studyType": "fulltime",
+        "batch start year": 2018,
+        "batch end year": 2021,
+        "cgpa": 8.3,
+      }
+    ],
+    "skills": [
+      {
+        "name": "adobe photoshop, Illustrator, XD, Figma, After effects, Premiere Pro",
+        "level": "Expert",
+        "project": [
+          "Done various web assets for web development"
+        ]
+      }
+    ],
+    "languages":["Tamil","English","Kannada"],
+    "interests": [
+      {
+        "name": ["Graphic Designing", "Web Development"]
+        }
+    ]
+  }
+  console.log(myResume);
+  
+
